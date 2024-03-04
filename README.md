@@ -34,4 +34,10 @@ This code is simple, it generates a random number then asks the user to input th
 ## الاستخدام
 
 1. قم بتشغيل البرنامج عن طريق تنفيذ ملف الكود باستخدام Python.
-2. اتبع الرسائل التي تظهر في واجهة المستخدم لإدخال الرقم ومعرفة إذا كان مطابقاً للرقم العشوائي.
+2. اتبع الرسائل التي تظهر في واجهة المستخدم لإدخال الرقم
+3. ومعرفة إذا كان مطابقاً للرقم العشوائي.
+
+<video width="320" height="240" controls>
+  <source src="img/1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
