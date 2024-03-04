@@ -37,15 +37,10 @@ This code is simple, it generates a random number then asks the user to input th
 2. اتبع الرسائل التي تظهر في واجهة المستخدم لإدخال الرقم
 3. ومعرفة إذا كان مطابقاً للرقم العشوائي.
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>عنوان الصفحة</title>
-</head>
-<body>
-    <video width="320" height="240" controls>
-  <source src="https://github.com/raf-4/Verify-Random/blob/main/img/1.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-</body>
-</html>
+<p align=center>
+  <br>
+  <a href="https://sherlock-project.github.io/" target="_blank"><img src="https://github.com/raf-4/Verify-Random/blob/main/img/1.gif"/></a>
+  <br>
+  <span>Hunt down social media accounts by username across <a href="https://github.com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
+  <br>
+</p>
