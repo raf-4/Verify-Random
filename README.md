@@ -1,7 +1,7 @@
 
 <p align=center>
   <br>
-  <a href="https://sherlock-project.github.io/" target="_blank"><img src="https://github.com/raf-4/Verify-Random/blob/main/img/1.gif"/></a>
+  <a href="https://t.me/l4eel" target="_blank"><img src="https://github.com/raf-4/Verify-Random/blob/main/img/1.gif"/></a>
 </p>
 
 
