@@ -37,7 +37,4 @@ This code is simple, it generates a random number then asks the user to input th
 2. اتبع الرسائل التي تظهر في واجهة المستخدم لإدخال الرقم
 3. ومعرفة إذا كان مطابقاً للرقم العشوائي.
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/raf-4/Verify-Random/blob/main/img/1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[رابط الفيديو](https://github.com/raf-4/Verify-Random/blob/main/img/1.gif)
