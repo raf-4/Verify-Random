@@ -2,9 +2,6 @@
 <p align=center>
   <br>
   <a href="https://sherlock-project.github.io/" target="_blank"><img src="https://github.com/raf-4/Verify-Random/blob/main/img/1.gif"/></a>
-  <br>
-  <span>Hunt down social media accounts by username across <a href="https://github.com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
-  <br>
 </p>
 
 
